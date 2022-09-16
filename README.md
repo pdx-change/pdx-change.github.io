@@ -1,3 +1,3 @@
-# Totnes Pound
+# PDX-Change
 
-Public site
+Portland-based local currency for community growth.
