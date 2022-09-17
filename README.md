@@ -18,7 +18,7 @@ Steps:
 Getting started
 ---
 
-Requirements: node, npm, git.
+Requirements: node, npm, git, maybe a global Gatsby, maybe a global `gh-pages` 
 
 1. Install nvm (https://github.com/nvm-sh/nvm) or nvm for windows (https://github.com/coreybutler/nvm-windows).
 2. Install git (https://git-scm.com/download/mac or https://git-scm.com/download/win)
